@@ -2,7 +2,7 @@
 
 ## Description
 
-This password generator asks for user input on password parameters and generates a random password that fulfills their selections. I have utilized new JavaScript concepts I have learned in the UW COding Bootcamp, such as functions, arrays, if statements, and prompts to create a working application complete with error handling. Thinking of a random and unique password can be difficult, so why not let an application do all the work for us! In creating this password generator, I have learned how to use basic JavaScript concepts to obtain user input and display interactive feedback!
+This password generator asks for user input on password parameters and generates a random password that fulfills their selections. I have utilized new JavaScript concepts I have learned in the UW Coding Bootcamp, such as functions, arrays, if statements, and prompts to create a working application complete with error handling. Thinking of a random and unique password can be difficult, so why not let an application do all the work for us! In creating this password generator, I have learned how to use basic JavaScript concepts to obtain user input and display interactive feedback!
 
 ![webpage start](./assets/images/pass-gen-1.jpg)
 
