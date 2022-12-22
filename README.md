@@ -15,6 +15,7 @@ This password generator asks for user input on password parameters and generates
 ## Installation
 
 N/A. No installation necessary! Simply view my deployed page to test it out for yourself.
+https://visualviolet.github.io/password-generator/
 
 ## Usage
 
